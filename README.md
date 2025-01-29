@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sohan Meshram</h1>
 <h3 align="center">Pirate King of Code, Ninja of Algorithms, and Saiyan of Machine Learning 💥</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soha-n&label=Profile%20views&color=0e75b6&style=flat" alt="soha-n" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soha-n" alt="soha-n" /></a> </p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/35/c1/e435c163fa6982d4f61ea4a8a6c53aa9.gif" alt="Coding Gif" width="500" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,32 +35,8 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">A Little About Me:</h3>
-<p align="left">
-  I’m not just a coder; I’m an **explorer** on a never-ending adventure. Like a **captain** sailing through unknown seas, I’m constantly learning and pushing boundaries. Whether I’m tackling complex algorithms, exploring the realms of **Machine Learning**, or diving into deep data, my curiosity drives me forward.
-  <br><br>
-  My passion lies in building systems that **create impact**. I’m always up for a challenge and thrive when I’m problem-solving. When I'm not coding, you can find me **learning new things** or honing my skills. With a mindset to always **level up**, I'm constantly improving and evolving—because I believe **growth never stops**.
-  <br><br>
-  **"The journey of a thousand lines of code begins with a single function."**
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soha-n&show_icons=true&locale=en&layout=compact" alt="soha-n" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soha-n&show_icons=true&locale=en" alt="soha-n" /></p>
-
-<!--
-**Soha-n/Soha-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soha-n&label=Profile%20views&color=0e75b6&style=flat" alt="soha-n" /> </p>
 
