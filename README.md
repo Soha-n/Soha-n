@@ -5,6 +5,15 @@
   <img src="https://i.pinimg.com/originals/e4/35/c1/e435c163fa6982d4f61ea4a8a6c53aa9.gif" alt="Coding Gif" width="500" />
 </p>
 
+<h3 align="center">⚔️ The Legend Behind the Code ⚔️</h3>
+<ul>
+  <li><b>🔥 Unstoppable Determination:</b> No bug is too strong, no algorithm too complex. I train, adapt, and conquer every challenge.</li>
+  <li><b>🧠 Tactical Problem-Solving:</b> Like a strategist in battle, I break down complex issues into clear, logical solutions.</li>
+  <li><b>📈 Limitless Growth:</b> Every line of code is a new step towards mastery—learning never stops.</li>
+  <li><b>🤝 Team Player & Lone Warrior:</b> Whether in a guild (team) or solo quest (individual projects), efficiency and innovation remain my ultimate weapons.</li>
+  <li><b>⚡ Speed & Precision:</b> Optimized code, scalable architectures, and clean solutions—crafted with precision, executed with speed.</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://kaggle.com/sohan_meshram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sohan_meshram1" height="30" width="40" /></a>
@@ -13,6 +22,7 @@
   <a href="https://codeforces.com/profile/sohan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sohan_" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/sohanmeshram00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sohanmeshram00" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -39,4 +49,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soha-n&show_icons=true&locale=en" alt="soha-n" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soha-n&label=Profile%20views&color=0e75b6&style=flat" alt="soha-n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soha-n&label=Profile%20views&color=0e75b6&style=flat" alt="soha-n" /> </p>
+
 
